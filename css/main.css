@@ -1,0 +1,88 @@
+html{
+    background-color: black;
+}
+.main {
+    background-color: navajowhite;
+    box-sizing: border-box;
+    min-height: 1000px;
+    min-width: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 20px;
+    justify-content: flex-start;
+    justify-items: flex-start;
+}
+
+.widgets > h1 {
+    text-align: center;
+    font-size: 60px;
+}
+.widgets {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+}
+
+.second {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.big {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.bigger {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.huge {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.contact > h1 {
+    text-align: center;
+    font-size: 60px;
+}
+.contact {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    margin-top: 10px;
+}
